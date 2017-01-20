@@ -1,4 +1,4 @@
-const debug = process.env.NODE_ENV !== 'production'; 
+const debug = process.env.NODE_ENV !== 'production';
 const webpack = require('webpack');
 const path = require('path');
 
@@ -17,7 +17,7 @@ module.exports = {
           plugins: [
             'react-html-attrs',
             'transform-decorators-legacy',
-            'transform-class-properties'
+            'transform-class-properties',
           ],
         },
       },

@@ -1,4 +1,6 @@
 {
     "extends": "airbnb",
-    "eslint linebreak-style": ["error", "windows"]
+    "rules": {
+        "linebreak-style": ["error", "windows"]
+    }
 }
