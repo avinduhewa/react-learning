@@ -1,1 +1,2 @@
 # react-learning
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/4d20494dac084550aee61a672ea2fa83)](https://www.codacy.com?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=avinduhewa/react-learning&amp;utm_campaign=Badge_Grade)
